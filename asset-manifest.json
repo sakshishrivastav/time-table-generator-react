@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/time-table-generator-react/static/css/main.93cdb405.chunk.css",
-    "main.js": "/time-table-generator-react/static/js/main.784a9b32.chunk.js",
-    "main.js.map": "/time-table-generator-react/static/js/main.784a9b32.chunk.js.map",
+    "main.js": "/time-table-generator-react/static/js/main.88b88077.chunk.js",
+    "main.js.map": "/time-table-generator-react/static/js/main.88b88077.chunk.js.map",
     "runtime-main.js": "/time-table-generator-react/static/js/runtime-main.0430417d.js",
     "runtime-main.js.map": "/time-table-generator-react/static/js/runtime-main.0430417d.js.map",
     "static/js/2.e78190b1.chunk.js": "/time-table-generator-react/static/js/2.e78190b1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0430417d.js",
     "static/js/2.e78190b1.chunk.js",
     "static/css/main.93cdb405.chunk.css",
-    "static/js/main.784a9b32.chunk.js"
+    "static/js/main.88b88077.chunk.js"
   ]
 }
