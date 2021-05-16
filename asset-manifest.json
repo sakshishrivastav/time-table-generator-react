@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/time-table-generator-react/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/time-table-generator-react/static/js/main.2b4eab7b.chunk.js",
+    "main.js.map": "/time-table-generator-react/static/js/main.2b4eab7b.chunk.js.map",
+    "runtime-main.js": "/time-table-generator-react/static/js/runtime-main.a03d0531.js",
+    "runtime-main.js.map": "/time-table-generator-react/static/js/runtime-main.a03d0531.js.map",
+    "static/js/2.1ba4f2b8.chunk.js": "/time-table-generator-react/static/js/2.1ba4f2b8.chunk.js",
+    "static/js/2.1ba4f2b8.chunk.js.map": "/time-table-generator-react/static/js/2.1ba4f2b8.chunk.js.map",
+    "static/js/3.b38e3387.chunk.js": "/time-table-generator-react/static/js/3.b38e3387.chunk.js",
+    "static/js/3.b38e3387.chunk.js.map": "/time-table-generator-react/static/js/3.b38e3387.chunk.js.map",
+    "index.html": "/time-table-generator-react/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/time-table-generator-react/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1ba4f2b8.chunk.js.LICENSE.txt": "/time-table-generator-react/static/js/2.1ba4f2b8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/time-table-generator-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a03d0531.js",
+    "static/js/2.1ba4f2b8.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2b4eab7b.chunk.js"
+  ]
+}
