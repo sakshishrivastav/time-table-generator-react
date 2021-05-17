@@ -40,14 +40,16 @@ const generateSchedule = (info, subjects) => {
         }
         if(size+adj<maxSize){
             adj = adj+1;
-        }
+        }else needsChange = false;
     }
 
     const rows = splitArray(slots, info.workingDays);
-    return rows;
+    if(rows.length<=info.workingDays)return rows;
+    else return "Not Feasible to Calculate ! Please readjust and try again with different values - Hint: Try Changing Working Days or Number of Subjects"
   
 };
 export default generateSchedule;
+
 
 
 

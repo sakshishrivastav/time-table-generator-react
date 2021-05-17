@@ -327,20 +327,38 @@ function App() {
           <br />
           <br />
           <div className="table-responsive">
-            <table className="table table-striped">
-              <thead>
-                <tr>
-                  
-                  {Array.from(
-                    Array(+form1.workingDays.value).keys(),
-                    (n) => n + 1
-                  ).map((x, i)=><th key={"th"+i} scope="col">Day #{x}</th>)}
-                </tr>
-              </thead>
-              <tbody>
-                {schedule.map((row, i)=><tr key={"td"+i}>{row.map(day=><td>{day.name} - {day.hours}Hours</td>)}</tr>)}
-              </tbody>
-            </table>
+            {typeof schedule !== "string" ? (
+              <table className="table table-bordered border-primary table-hover">
+                <thead>
+                  <tr>
+                    {Array.from(
+                      Array(+form1.workingDays.value).keys(),
+                      (n) => n + 1
+                    ).map((x, i) => (
+                      <th key={"th" + i} scope="col">
+                        Day #{x}
+                      </th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {schedule.map((row, i) => (
+                    <tr key={"td" + i}>
+                      {row.map((day) => (
+                        <td>
+                          {day.name} - {day.hours}Hours
+                        </td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            ) : (
+              <div className="text-danger text-center">
+                <em><strong>{schedule}</strong></em><br /><br />
+                <button onClick={()=>window.location.reload()} className="btn btn-primary">Recalculate</button>
+              </div>
+            )}
           </div>
         </div>
       ) : null}
