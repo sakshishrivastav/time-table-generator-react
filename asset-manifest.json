@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/time-table-generator-react/static/css/main.93cdb405.chunk.css",
-    "main.js": "/time-table-generator-react/static/js/main.88b88077.chunk.js",
-    "main.js.map": "/time-table-generator-react/static/js/main.88b88077.chunk.js.map",
+    "main.js": "/time-table-generator-react/static/js/main.baacea03.chunk.js",
+    "main.js.map": "/time-table-generator-react/static/js/main.baacea03.chunk.js.map",
     "runtime-main.js": "/time-table-generator-react/static/js/runtime-main.0430417d.js",
     "runtime-main.js.map": "/time-table-generator-react/static/js/runtime-main.0430417d.js.map",
-    "static/js/2.e78190b1.chunk.js": "/time-table-generator-react/static/js/2.e78190b1.chunk.js",
-    "static/js/2.e78190b1.chunk.js.map": "/time-table-generator-react/static/js/2.e78190b1.chunk.js.map",
+    "static/js/2.d6729c89.chunk.js": "/time-table-generator-react/static/js/2.d6729c89.chunk.js",
+    "static/js/2.d6729c89.chunk.js.map": "/time-table-generator-react/static/js/2.d6729c89.chunk.js.map",
     "static/js/3.f7c069c6.chunk.js": "/time-table-generator-react/static/js/3.f7c069c6.chunk.js",
     "static/js/3.f7c069c6.chunk.js.map": "/time-table-generator-react/static/js/3.f7c069c6.chunk.js.map",
     "index.html": "/time-table-generator-react/index.html",
     "static/css/main.93cdb405.chunk.css.map": "/time-table-generator-react/static/css/main.93cdb405.chunk.css.map",
-    "static/js/2.e78190b1.chunk.js.LICENSE.txt": "/time-table-generator-react/static/js/2.e78190b1.chunk.js.LICENSE.txt"
+    "static/js/2.d6729c89.chunk.js.LICENSE.txt": "/time-table-generator-react/static/js/2.d6729c89.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0430417d.js",
-    "static/js/2.e78190b1.chunk.js",
+    "static/js/2.d6729c89.chunk.js",
     "static/css/main.93cdb405.chunk.css",
-    "static/js/main.88b88077.chunk.js"
+    "static/js/main.baacea03.chunk.js"
   ]
 }
